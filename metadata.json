@@ -1,0 +1,6 @@
+{
+  "name": "FlashLearn",
+  "description": "A modern and responsive flashcard quiz and study dashboard designed to help you learn smarter and remember longer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
